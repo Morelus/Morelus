@@ -1,6 +1,6 @@
 ## Rounded <a id="rounded">
 
-![Hi Im Markayel](https://capsule-render.vercel.app/api?type=rounded&color=timeAuto&text=Rounded%20with%20stroke&fontAlignY=50&fontSize=40&height=200&stroke=000000&strokeWidth=2)
+![Hi Im Markayel](https://capsule-render.vercel.app/api?type="Hi,-I'm-Markayel"&color=timeAuto&text=Rounded%20with%20stroke&fontAlignY=50&fontSize=40&height=200&stroke=000000&strokeWidth=2)
 
 <h1 align="center">Hi 👋, I'm Markayel</h1>
 <h3 align="center">A passionate full stack developer.</h3>
